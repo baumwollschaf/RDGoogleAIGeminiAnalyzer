@@ -30,4 +30,7 @@ package RDGoogleAIAnalyzer;
 requires
   rtl;
 
+contains
+  RD.GoogleAI.Gemini.Analyzer.ViewModel in 'RD.GoogleAI.Gemini.Analyzer.ViewModel.pas';
+
 end.
