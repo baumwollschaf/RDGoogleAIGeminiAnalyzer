@@ -1,8 +1,8 @@
 # RDGoogleAIGeminiAnalyzer
 
-Delphi implementation of GoogleAI, Gemini API - event based, asynchronous. The Result ist structured in JSON to analyze it easily.
+A Delphi implementation of the Google AI Gemini API. It is event-based, asynchronous, and structures the results in JSON (through a previously added schema) for easy analysis.
 
-All you need is an own API key from here: https://aistudio.google.com/app/apikey
+All you need is your own API key, which you can obtain here: https://aistudio.google.com/app/apikey
 
 Copyright © 2025 Ralph Dietrich.
 
