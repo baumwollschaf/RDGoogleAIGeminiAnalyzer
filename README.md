@@ -1,0 +1,2 @@
+# RDGoogleAIGeminiAnalyzer
+Structured Prompting etc
