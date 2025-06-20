@@ -99,6 +99,7 @@
         </DelphiCompile>
         <DCCReference Include="rtl.dcp"/>
         <DCCReference Include="RD.GoogleAI.Gemini.Analyzer.ViewModel.pas"/>
+        <DCCReference Include="RD.GoogleAI.Gemini.Analyzer.Model.pas"/>
         <BuildConfiguration Include="Base">
             <Key>Base</Key>
         </BuildConfiguration>

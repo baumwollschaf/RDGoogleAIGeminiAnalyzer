@@ -31,6 +31,7 @@ requires
   rtl;
 
 contains
-  RD.GoogleAI.Gemini.Analyzer.ViewModel in 'RD.GoogleAI.Gemini.Analyzer.ViewModel.pas';
+  RD.GoogleAI.Gemini.Analyzer.ViewModel in 'RD.GoogleAI.Gemini.Analyzer.ViewModel.pas',
+  RD.GoogleAI.Gemini.Analyzer.Model in 'RD.GoogleAI.Gemini.Analyzer.Model.pas';
 
 end.
